@@ -5,10 +5,8 @@
 
 
 Pages for my Projects:
-
 Simple Random User Generator with Vue CDN:
 https://derkells.github.io/Vue-Random-User-Generator/index.html
-
 Simple Elden Ring Weapon Randomizer:
 https://derkells.github.io/ERrandomizer/(root)/index.html
 

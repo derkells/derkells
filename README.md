@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @derkells
-- 👀 I’m interested in learning to program!
 - 🌱 I’m currently learning Javascript, Vue.JS and SuiteScript
 - 📫 How to reach me https://linktr.ee/derkells
 

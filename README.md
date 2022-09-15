@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @derkells
 - 👀 I’m interested in learning to program!
 - 🌱 I’m currently learning Javascript, Vue.JS and SuiteScript
-- 📫 How to reach me https://www.linkedin.com/in/derekellsworth/
+- 📫 How to reach me https://linktr.ee/derkells
 
 Pages for my Projects:
 

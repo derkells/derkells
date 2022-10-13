@@ -5,10 +5,5 @@
 
 Pages for my Projects:
 
-Simple Random User Generator with Vue CDN:
-https://derkells.github.io/Vue-Random-User-Generator/index.html
-
-<!---
-derkells/derkells is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+From scratch/no tutorial app to help you come up with an idea when you're bored. Uses BoardAPI (https://www.boredapi.com/)
+https://derkells.github.io/WIP-BoredAPI/

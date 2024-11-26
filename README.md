@@ -2,3 +2,4 @@
 - NetSuite Developer fluent in SuiteScript
 - 📫 How to reach me https://linktr.ee/derkells
 - https://derkells.com/
+- Most of my contributions are on my business account 🤷
